@@ -105,15 +105,21 @@ Constraints ensuring data integrity
 # ⚙️ Tools
 
 NetBeans
+
 MySQL WorkBench
+
 GlassFish/Payara Server
 
 # 📦 Dependencies
 
 JDK 21 (JDK 22 and up do not work)
+
 Jakarta EE 10
+
 MySQL Connector/J
+
 JSF 3.0 (optional for JSF pages)
+
 JSTL 2.0 (for JSP pages)
 
 # ✨ Features
