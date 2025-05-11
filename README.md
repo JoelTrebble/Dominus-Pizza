@@ -1,7 +1,7 @@
 # Dominus-Pizza
 **NOTE 1: Plain text password is done intentionally for dev environment set up.**
 
-**NOTE 2: A default DB and most dependencies are already defined in the pom.xml file**
+**NOTE 2: A default DB and most dependencies are already defined in the pom.xml file.**
 
 ![Home Page Screenshot](HomePage.png)
 
@@ -193,7 +193,7 @@ JSTL 2.0 (for JSP pages)
 
 3. Right-click again and select "Run"
 
-NetBeans will automatically start GlassFish and deploy the application
+NetBeans will automatically start GlassFish and deploy the application.
 
 # 🎓 Learning Outcomes
 
